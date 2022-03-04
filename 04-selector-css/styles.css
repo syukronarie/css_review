@@ -16,3 +16,22 @@
   width: 250px;
   height: 250px;
 }
+
+#this-id {
+  font-size: 50px;
+  background-color: brown;
+}
+
+.this-class {
+  font-size: 50px;
+  background-color: blueviolet;
+}
+
+.text {
+  background-color: chartreuse !important;
+}
+
+p {
+  font-size: 50px;
+  background-color: cornflowerblue;
+}
